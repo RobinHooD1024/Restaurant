@@ -1,8 +1,6 @@
 package takeout;
 
 import static takeout.utils.PrintUtil.*;
-import static takeout.utils.PrintUtil.CommonPrintMethod.*;
-import static takeout.utils.PrintUtil.PrintTitles.*;
 
 public class Menu {
 
